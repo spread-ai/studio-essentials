@@ -92,7 +92,7 @@ jobs:
                   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
                   DEBUG: ${{ secrets.ACTIONS_STEP_DEBUG == 'true' && 'semantic-release:*' || '' }}
               with:
-                  semantic_version: 19.0.5 # semantic-release version, same as in package.json
+                  semantic_version: 23.0.8 # semantic-release version, same as in package.json
             - name: 📝 Add release notes to build summary
               if: steps.release.outputs.new_release_published == 'true'
               run: |
