@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/spread-ai/studio-essentials/compare/v1.0.0...v1.0.1) (2024-04-24)
+
+
+### Bug Fixes
+
+* **release:** add "publishConfig" to package.json for public access ([e3852a0](https://github.com/spread-ai/studio-essentials/commit/e3852a00f3a74b5ce43a9e3bf5d0c6aab9e1787d))
+
 ## 1.0.0 (2024-04-24)
 
 
