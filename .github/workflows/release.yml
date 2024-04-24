@@ -109,7 +109,7 @@ jobs:
                   echo "yarn add @spread-ai/studio-essentials@$NEW_RELEASE_VERSION" >> $GITHUB_STEP_SUMMARY
                   echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
                   echo "" >> $GITHUB_STEP_SUMMARY
-                  yarn exec ts-node-esm build/append-to-file.ts $GITHUB_STEP_SUMMARY <<"END_OF_CONTENT"
+                  yarn exec ts-node build/append-to-file.ts $GITHUB_STEP_SUMMARY <<"END_OF_CONTENT"
                   ${{ steps.release.outputs.new_release_notes }}
                   END_OF_CONTENT
             - name: ∅ No new package published
