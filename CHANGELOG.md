@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/spread-ai/studio-essentials/compare/v1.0.1...v1.1.0) (2024-04-24)
+
+
+### Features
+
+* add dummy function for testing ([22dfb71](https://github.com/spread-ai/studio-essentials/commit/22dfb7106fbec2c55a99e557365a7080608b965c))
+
 ## [1.0.1](https://github.com/spread-ai/studio-essentials/compare/v1.0.0...v1.0.1) (2024-04-24)
 
 
