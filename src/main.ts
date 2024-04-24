@@ -2,7 +2,7 @@ import Config from "./config";
 
 /** A simple test function that returns the passed argument. */
 export function dummyFunction(parameter: string) {
-  return parameter;
+  return `[dummy text] ${parameter} [dummy text]`;
 }
 
 /**
