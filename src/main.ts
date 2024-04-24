@@ -42,7 +42,6 @@ export function getAllNodes(obj) {
   const nodes = Array.from(new Set(ids.map((obj) => obj.id))).map((id) => {
     return ids.find((obj) => obj.id === id);
   });
-  this.nodes = nodes;
   return nodes;
 }
 

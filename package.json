@@ -1,5 +1,5 @@
 {
-  "name": "studio-essentials",
+  "name": "@spread-ai/studio-essentials",
   "version": "0.0.0",
   "main": "dist/studio-essentials.cjs.js",
   "module": "dist/studio-essentials.esm.js",
