@@ -1,5 +1,13 @@
 import Config from "./config";
 
+/** A simple test function that returns the passed argument. */
+export function dummyFunction(parameter: string) {
+  return parameter;
+}
+
+/**
+ * Get all nodes from a ESF object
+ */
 export function getAllNodes(obj) {
   const ids = [];
 
