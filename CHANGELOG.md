@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/spread-ai/studio-essentials/compare/v1.1.0...v1.2.0) (2024-04-24)
+
+
+### Features
+
+* refactor dummyFunction to include dummy text ([da11f13](https://github.com/spread-ai/studio-essentials/commit/da11f13049b2f23b2dc011b5d44887e5480fcb42))
+
 ## [1.1.0](https://github.com/spread-ai/studio-essentials/compare/v1.0.1...v1.1.0) (2024-04-24)
 
 
